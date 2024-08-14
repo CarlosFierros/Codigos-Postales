@@ -11,8 +11,6 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
-
         // Ruta al archivo CSV en el proyecto
         String rutaArchivo = "codigos_postales.csv";
 
